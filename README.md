@@ -1,12 +1,10 @@
 ### Hi there, I'm Pranav Patil 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+## I'm a Software Developer!
+- 🔭 I’m currently working on Side Projects!
+- 🌱 I’m currently learning Machine Learning, Deep Learning, AI, Computer Vision also strengthening Full Stack Developer Skills 
+- 👯 I’m looking for Job Oppurtunities
+- ⚡ Fun fact: I love to create 3D Animation & Visuals | along with some Video Editing
 ### Connect with me:
 
 [<img align="left" alt="https://medium.com/%40pranavpatil07" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -39,18 +37,6 @@
 <br />
 <br />
 
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 [website]: https://medium.com/%40pranavpatil07
 [twitter]: https://twitter.com/PatilPranavp007
