@@ -41,17 +41,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
-<!-- YOUTUBE:END -->
-
----
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -63,9 +52,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-[website]: https://codeSTACKr.com
+[website]: https://medium.com/%40pranavpatil07
 [twitter]: https://twitter.com/PatilPranavp007
 [instagram]: https://www.instagram.com/pranav_patil7_/?igshid=7xpe278vvut0
 [linkedin]: https://www.linkedin.com/in/pranavpatil07
