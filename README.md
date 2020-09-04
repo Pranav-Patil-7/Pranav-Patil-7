@@ -5,6 +5,12 @@
 - 🌱 I’m currently learning Machine Learning, Deep Learning, AI, Computer Vision also strengthening Full Stack Developer Skills 
 - 👯 I’m looking for Job Oppurtunities
 - ⚡ Fun fact: I love to create 3D Animation & Visuals | along with some Video Editing
+
+
+### Programming & Other Skills:
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="https://medium.com/%40pranavpatil07" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,12 +20,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-### Programming & Other Skills:
-
-
-
-
 
 
 [website]: https://medium.com/%40pranavpatil07
