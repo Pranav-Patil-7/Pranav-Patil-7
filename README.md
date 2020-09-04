@@ -15,10 +15,10 @@
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/javascript.png" />]
 
 ### FrontEnd & BackEnd:
-[<img align="left" alt="HTML5" height="35px" width="35px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/sql.png" />]
-[<img align="left" alt="HTML5" height="50px" width="50px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mysql.png" />]
-[<img align="left" alt="HTML5" height="50px" width="50px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mongodb.png" />]
-[<img align="left" alt="HTML5" height="50px" width="90px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/postgre.png" />]
+[<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/sql.png" />]
+[<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mysql.png" />]
+[<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mongodb.png" />]
+[<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/postgre.png" />]
 
 
 
