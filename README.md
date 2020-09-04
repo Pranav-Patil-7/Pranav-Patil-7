@@ -14,6 +14,14 @@
 [<img align="left" alt="HTML5" height="25px" width="25px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/R.png" />]
 [<img align="left" alt="HTML5" height="28px" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/javascript.png" />]
 
+### FrontEnd & BackEnd:
+[<img align="left" alt="HTML5" height="35px" width="35px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/sql.png" />]
+[<img align="left" alt="HTML5" height="35px" width="35px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mysql.png" />]
+[<img align="left" alt="HTML5" height="35px" width="35px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mongodb.png" />]
+[<img align="left" alt="HTML5" height="35px" width="35px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/postgre.png" />]
+
+
+
 
 ### Connect with me:
 
