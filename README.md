@@ -16,7 +16,7 @@
 
 ### FrontEnd & BackEnd:
 [<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/sql.png" />]
-[<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mysql.png" />]
+[<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mysql.PNG" />]
 [<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mongodb.png" />]
 [<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/postgre.png" />]
 
