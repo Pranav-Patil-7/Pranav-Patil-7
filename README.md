@@ -20,7 +20,7 @@
 [<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/react.png" />]
 [<img align="left"   height="20px" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/flask.PNG" />]
 [<img align="left"  height="20px" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/dj.PNG" />]
-[<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/node.png" />]
+[<img align="left"   height="40px" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/node.png" />]
 
 <br />
 
