@@ -18,7 +18,7 @@
 [<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/sql.png" />]
 [<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mysql.PNG" />]
 [<img align="left" alt="HTML5" height="20px" width="15px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mongo.PNG" />]
-[<img align="left" alt="HTML5"  width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/postgre.png" />]
+[<img align="left" alt="HTML5"  height="20px" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/postgre.png" />]
 
 
 
