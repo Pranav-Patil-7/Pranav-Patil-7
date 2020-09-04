@@ -20,6 +20,7 @@
 [<img align="left"  height="20px" width="15px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mongo.PNG" />]
 [<img align="left"   height="30px" width="70px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/postgre.png" />]
 [<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/react.png" />]
+[<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/flask.PNG" />]
 
 
 
