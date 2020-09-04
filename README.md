@@ -8,7 +8,7 @@
 
 
 ### Programming & Other Skills:
-<img align="left" alt="HTML5" height="50px" width="35px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/python.png" />
+[<img align="left" alt="HTML5" height="35px" width="35px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/python.png" />]
 
 
 ### Connect with me:
