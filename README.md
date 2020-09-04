@@ -9,8 +9,8 @@
 
 ### Programming Skills:
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/python.png" />]
-[<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/csharp.png" />]
-[<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/c_plus_plus.png" />]
+[<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/csharp.PNG" />]
+[<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/cplusplus.PNG" />]
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/R.png" />]
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/javascript.png" />]
 
