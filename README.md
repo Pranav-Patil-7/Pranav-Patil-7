@@ -20,7 +20,7 @@
 [<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/react.png" />]
 [<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/flask.PNG" />]
 [<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/dj.PNG" />]
-[<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/node.jpg" />]
+[<img align="left"  height="30px" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/node.jpg" />]
 
 <br />
 
@@ -30,7 +30,6 @@
 [<img align="left" alt="https://medium.com/%40pranavpatil07" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
