@@ -7,14 +7,12 @@
 - ⚡ Fun fact: I love to create 3D Animation & Visuals | along with some Video Editing
 
 
-### Programming Skills:
+### Languages & Tools:
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/python.png" />]
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/csharp.PNG" />]
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/cplusplus.PNG" />]
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/R.png" />]
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/javascript.png" />]
-
-### FrontEnd & BackEnd:
 [<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/sql.png" />]
 [<img align="left"   width="30px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mysql.PNG" />]
 [<img align="left"  height="20px" width="15px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/mongo.PNG" />]
