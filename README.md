@@ -10,6 +10,8 @@
 ### Languages & Tools:
 [<img align="left" alt="Python" width="26px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/python.png" />][channel]
 [<img align="left" alt="Python" width="26px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/csharp.PNG" />][channel]
+[<img align="left" alt="Python" width="26px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/cplusplus.PNG" />][channel]
+[<img align="left" alt="Python" width="26px" src="https://github.com/PranavPatil7/miscellaneous/blob/master/r.png" />][channel]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][channel]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][channel]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][channel]
